@@ -1,0 +1,19 @@
+.hero_container{
+    padding: 6em 10px;
+    background-color: black;
+}
+
+.hero_article{
+    color: white;
+    text-align: center;
+}
+
+.hero_article h1{
+    font-weight: 700;
+    font-size: 3.5em;
+}
+
+.hero_article p{
+    color: #909294;
+    font-size: 1.2em;
+}

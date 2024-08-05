@@ -1,0 +1,65 @@
+{
+    "Shop in style": "Şık bir şekilde alışveriş yapın",
+    "With this shop hompeage template": "Bu mağaza ana sayfası şablonuyla",
+    "Home": "Ana Sayfa",
+    "About": "Hakkımızda",
+    "Contact": "İletişim",
+    "SALE": "İNDİRİM",
+    "Price Range:": "Fiyat Aralığı:",
+    "Original Price:": "Orijinal Fiyat:",
+    "Discounted Price:": "İndirimli Fiyat:",
+    "Add to Cart": "Sepete Ekle",
+
+    "Login": "Giriş Yap",
+    "Enter email": "E-posta girin",
+    "Enter name": "İsim girin",
+    "Enter Password": "Parola girin",
+    "Please enter valid credentials.": "Lütfen geçerli kimlik bilgilerini girin.",
+    "or Sign Up": "veya Kayıt Ol",
+    "REGISTER":"Kayıt Ol",
+
+    "Add Product":"Ürün ekle",
+
+    "Name":"İsim",
+    "Photo":"Resim",
+    "Rating":"Değerlendirme",
+    "Price Range":"Fiyat aralığı",
+    "Original Price":"Orijinal fiyat",
+    "Discounted Price":"Indirimli fiyat",
+    "On Sale":"Indirimde mi ?",
+    "Add":"Ekle",
+    "Products":"Ürünler",
+    "Edit Product":"Ürünü düzenle",
+    
+    "Edit":"Düzenle",
+    "Delete":"Sil",
+
+
+    "Welcome to Shopping":"Alışverişe Hoş Geldiniz",
+    "5 Years of Experience in Industry":"Sanayide 5 Yıllık Deneyim",
+    "We are ready to build your dream home Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, beatae.":"Hayalinizdeki evi inşa etmeye hazırız Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, beatae.Hayalinizdeki evi inşa etmeye hazırız Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, beatae.",
+    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam repudiandae odit dolorum quis laudantium impedit beatae perferendis natus, hic libero sed atque quibusdam possimus error, voluptate est molestiae doloremque necessitatibus illum rerum sunt! Ad sunt obcaecati voluptatem sint sequi quos, qui non deleniti a praesentium, sapiente accusantium odit.":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam repudiandae odit dolorum quis laudantium impedit beatae perferendis natus, hic libero sed atque quibusdam possimus error, voluptate est molestiae doloremque necessitatibus illum rerum sunt! Ad sunt obcaecati voluptatem sint sequi quos, qui non deleniti a praesentium, sapiente accusantium odit..Lorem ipsum dolor sit amet, conectetur adipisicing elit. Reklam sunt obcaecati voluptatem sint sequi quos, qui non deleniti a praesentium, sapiente accusantium odit.",
+
+    "Address":"Adres",
+    "Baku, Azerbaijan":"Bakü, Azerbaycan",
+    "Lets Talk":"Hadi Konuşalım",
+    "General Support":"Genel Destek",
+    "Send Us A Message":"Bize Bir Mesaj Gönderin",
+    "Tell Us Your FullName":"Bize Bir Mesaj Gönderin",
+    "First Name":"Adı",
+    "Last Name":"Soyadı",
+    "Enter Your Email":"E-postanızı Girin",
+    "Enter Phone Number":"Telefon Numarasını Girin",
+    "Message":"Mesaj",
+    "Write us a message":"Bize bir mesaj yazın",
+    "SEND MESSAGE":"MESAJ GÖNDER",
+
+
+    "English":"Ingilizce",
+    "Turkish":"Türkce",
+
+    "Copyright":"Telif hakkı",
+    "Your Website":"Sizin siteniz"
+
+
+}

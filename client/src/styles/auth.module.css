@@ -1,0 +1,41 @@
+.form_section {
+    background: rgb(198, 170, 218);
+    background: linear-gradient(90deg, rgba(198, 170, 218, 1) 13%, rgba(137, 228, 245, 1) 56%, rgba(139, 229, 247, 1) 100%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form_container {
+    margin: 0 auto;
+    border: none;
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 0 40px;
+}
+
+.form_article{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.form_input{
+    padding-bottom: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+.button_container{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.signup_text{
+    text-align: center;
+    text-decoration: none !important;
+    padding-bottom: 10px;
+}

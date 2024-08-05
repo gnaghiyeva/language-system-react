@@ -1,0 +1,27 @@
+.about_section {
+    padding: 30px 40px;
+}
+
+.image_container {
+    width: 80%;
+}
+
+.image {
+    width: 100%;
+}
+
+.about_article {
+    padding-top: 40px;
+}
+
+.about_article h4 {
+    font-size: 22px;
+}
+
+.about_article h6 {
+    padding-top: 20px;
+}
+
+.about_article p {
+    padding-top: 20px;
+}

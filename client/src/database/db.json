@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "photoUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "title_en": "Special Item 111",
+      "title_tr": "Özel ürün 111",
+      "rating": "2",
+      "priceRange": "40.00-80.00",
+      "originalPrice": "23",
+      "discountedPrice": 18,
+      "onSale": false
+    },
+    {
+      "id": "2",
+      "photoUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "title_en": "Special Item 2",
+      "title_tr": "Özel ürün 2",
+      "rating": 5,
+      "priceRange": "",
+      "originalPrice": 20,
+      "discountedPrice": 18,
+      "onSale": false
+    },
+    {
+      "id": "3",
+      "photoUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "title_en": "Special Item 3",
+      "title_tr": "Özel ürün 3",
+      "rating": 5,
+      "priceRange": "",
+      "originalPrice": 20,
+      "discountedPrice": 18,
+      "onSale": true
+    },
+    {
+      "id": "4",
+      "photoUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "title_en": "Special Item 4",
+      "title_tr": "Özel ürün 4",
+      "rating": 5,
+      "priceRange": "",
+      "originalPrice": 20,
+      "discountedPrice": 18,
+      "onSale": true
+    },
+    {
+      "id": "5",
+      "photoUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "title_en": "Special Item 5",
+      "title_tr": "Özel ürün 5",
+      "rating": 5,
+      "priceRange": "",
+      "originalPrice": 20,
+      "discountedPrice": 18,
+      "onSale": true
+    },
+    {
+      "id": "f5eea023-3d94-47aa-800a-fd3d09fa93c1",
+      "title_en": "mosbiler",
+      "title_tr": "Şirinler",
+      "photoUrl": "https://yt3.googleusercontent.com/Q7o7W8tQHY8lgSq3rqAYN1VNA171HNK9IHrngIA__zfELwkth6ZNdzDGjYGuAXpnC0cBaakS=s900-c-k-c0x00ffffff-no-rj",
+      "rating": "5",
+      "originalPrice": "999",
+      "discountedPrice": "888",
+      "onSale": true
+    }
+  ]
+}

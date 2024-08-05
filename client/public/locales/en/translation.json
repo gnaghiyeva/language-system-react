@@ -1,0 +1,68 @@
+{
+    "Shop in style": "Shop in style",
+    "With this shop hompeage template": "With this shop hompeage template",
+    "Home": "Home",
+    "About": "About",
+    "Contact": "Contact",
+    "SALE": "SALE",
+    "Price Range:": "Price Range:",
+    "Original Price:": "Original Price:",
+    "Discounted Price:": "Discounted Price:",
+    "Add to Cart": "Add to Cart" ,
+    
+    "Login": "Login",
+    "Enter email": "Enter email",
+    "Enter name": "İsim girin",
+    "Enter Password": "Parola girin",
+    "Password": "Password",
+    "Please enter valid credentials.": "Please enter valid credentials.",
+    "or Sign Up": "or Sign Up",
+    "REGISTER":"REGISTER",
+
+    "Add Product":"Add Product",
+
+    "Name":"Name",
+    "Photo":"Photo",
+    "Rating":"Rating",
+    "Price Range":"Price Range",
+    "Original Price":"Original Price",
+    "Discounted Price":"Discounted Price",
+    "On Sale":"On Sale",
+    "Add":"Add",
+    "Product":"Products",
+    "Edit Product":"Edit Product",
+
+    "Edit":"Edit",
+    "Delete":"Delete",
+
+    "true":"evet",
+    "false":"hayır",
+
+
+    "Welcome to Shopping":"Welcome to Shopping",
+    "5 Years of Experience in Industry":"5 Years of Experience in Industry",
+    "We are ready to build your dream home Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, beatae.":"We are ready to build your dream home Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, beatae.",
+    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam repudiandae odit dolorum quis laudantium impedit beatae perferendis natus, hic libero sed atque quibusdam possimus error, voluptate est molestiae doloremque necessitatibus illum rerum sunt! Ad sunt obcaecati voluptatem sint sequi quos, qui non deleniti a praesentium, sapiente accusantium odit.":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam repudiandae odit dolorum quis laudantium impedit beatae perferendis natus, hic libero sed atque quibusdam possimus error, voluptate est molestiae doloremque necessitatibus illum rerum sunt! Ad sunt obcaecati voluptatem sint sequi quos, qui non deleniti a praesentium, sapiente accusantium odit.",
+
+
+    "Address":"Address",
+    "Baku, Azerbaijan":"Baku, Azerbaijan",
+    "Lets Talk":"Lets Talk",
+    "General Support":"General Support",
+    "Send Us A Message":"Send Us A Message",
+    "Tell Us Your FullName":"Tell Us Your FullName",
+    "First Name":"First Name",
+    "Last Name":"Last Name",
+    "Enter Your Email":"Enter Your Email",
+    "Enter Phone Number":"Enter Phone Number",
+    "Message":"Message",
+    "Write us a message":"Write us a message",
+    "SEND MESSAGE":"SEND MESSAGE",
+
+    "English":"English",
+    "Turkish":"Turkish",
+
+    "Copyright":"Copyright",
+    "Your Website":"Your Website"
+        
+}

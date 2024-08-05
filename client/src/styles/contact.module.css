@@ -1,0 +1,38 @@
+.contact_section{
+    padding: 30px 60px;
+}
+.contact_left{
+    background-image:linear-gradient(to right, rgba(46, 47, 48, 0.838), rgba(56, 57, 58, 0.86)), url('../assets//contact-background.jpg');
+    color: white;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;  
+    
+  
+}
+
+.address_icon{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.article_parag{
+    padding-left: 18px;
+}
+
+.article{
+    padding-left: 20%;
+    padding-top: 20%;
+}
+
+.contact_right{
+    padding: 20px 60px;
+}
+
+.contact_field{
+    padding: 15px 0;
+}
+
+.button_container{
+    text-align: center;
+}
